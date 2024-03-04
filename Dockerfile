@@ -10,5 +10,5 @@ WORKDIR /app
 COPY --from=builder /app/main /app/
 COPY --from=builder /app/ui /app/ui
 COPY --from=builder /app/internal /app/internal
-COPY --from=builder /app/structs /app/structs
+COPY --from=builder /app/models /app/models
 CMD ["./main"]
