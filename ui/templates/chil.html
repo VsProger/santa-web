@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Child's Personal Account</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../static/style/stylechi.css">
+</head>
+<body>
+<div class="container mt-5">
+    <div class="child-personal-card mb-4">
+        <h2>{{.Name}} {{.Surname}}</h2>
+        <p><strong>Email:</strong> {{.Email}}</p>
+        <p><strong>Phone:</strong> {{.Phone}}</p>
+    </div>
+    <div class="container">
+        <h1>Your Wish List</h1>
+        <form method="post" action="/update-wishes">
+            <div class="form-group">
+                <label for="wishes">Enter your wishes:</label>
+                <textarea class="form-control" id="wishes" name="wishes" placeholder="Enter your wish here" rows="4" required></textarea>
+            </div>
+            <button type="submit">Update Wishes</button>
+            <input type="hidden" name="childID" value="{{.ID}}">
+        </form>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>

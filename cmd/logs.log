@@ -1,0 +1,142 @@
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-02-04T20:31:00+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-02-04T20:31:54+06:00"}
+{"level":"error","msg":"sjklafj","time":"2024-02-04T20:32:21+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-02-04T20:36:20+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-01T17:53:43+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T00:56:00+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:15:09+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:15:55+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:39:06+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:39:53+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:43:19+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:44:14+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:45:18+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:46:03+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:55:25+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:55:58+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T01:57:48+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T02:01:10+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T02:01:15+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T02:09:58+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T02:12:56+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T02:15:48+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T02:19:11+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T02:21:40+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T02:22:22+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T03:02:57+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T03:37:51+06:00"}
+{"level":"info","msg":"Starting server on port :8080...\n","time":"2024-03-02T12:57:11+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080\n","time":"2024-03-02T12:57:59+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-02T12:58:12+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-02T13:01:31+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-02T13:21:59+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:07+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:10+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:10+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:11+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:11+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:11+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:12+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:12+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:12+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:13+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:13+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:13+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:22:14+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:23:45+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:23:45+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:23:46+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:23:46+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-02T13:23:53+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:24:19+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:24:19+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:00+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:02+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:02+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:02+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:04+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:04+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:05+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:06+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:06+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:07+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:07+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:07+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:10+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:11+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:12+06:00"}
+{"level":"error","msg":"Too Many Requests","time":"2024-03-02T13:26:12+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T09:52:28+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T10:00:19+05:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"123\" }]","time":"2024-03-03T10:00:39+05:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"123\" }]","time":"2024-03-03T10:01:02+05:00"}
+{"level":"error","msg":"error decoding children: error decoding key phone: cannot decode double into a string type","time":"2024-03-03T10:01:15+05:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"1234\" }]","time":"2024-03-03T10:01:55+05:00"}
+{"level":"error","msg":"error decoding children: error decoding key phone: cannot decode double into a string type","time":"2024-03-03T10:02:06+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T10:02:15+05:00"}
+{"level":"error","msg":"error decoding children: error decoding key phone: cannot decode double into a string type","time":"2024-03-03T10:02:38+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T10:07:13+05:00"}
+{"level":"error","msg":"error decoding children: error decoding key phone: cannot decode double into a string type","time":"2024-03-03T10:07:22+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T10:07:48+05:00"}
+{"level":"error","msg":"error decoding children: error decoding key phone: cannot decode double into a string type","time":"2024-03-03T10:07:57+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T10:10:03+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T10:15:29+05:00"}
+{"level":"error","msg":"page does not exist","time":"2024-03-03T10:17:35+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T10:28:50+05:00"}
+{"level":"error","msg":"error decoding children: error decoding key phone: cannot decode double into a string type","time":"2024-03-03T10:29:01+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T14:34:08+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T15:26:19+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"+77074105067\" }]","time":"2024-03-03T15:27:36+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"+77074105067\" }]","time":"2024-03-03T15:27:44+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"+77074105067\" }]","time":"2024-03-03T15:28:25+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"+77074105067\" }]","time":"2024-03-03T15:28:26+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T15:29:55+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"+77074105067\" }]","time":"2024-03-03T15:30:12+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"1\" }]","time":"2024-03-03T15:32:07+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T15:35:03+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"1\" }]","time":"2024-03-03T15:35:49+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T15:37:18+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"1\" }]","time":"2024-03-03T15:37:46+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T15:45:47+06:00"}
+{"level":"error","msg":"error finding volunteer: error decoding key confirmCode: cannot decode 32-bit integer into a string type","time":"2024-03-03T15:46:10+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"+77074105067\" }]","time":"2024-03-03T15:46:17+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"+77074105067\" }]","time":"2024-03-03T15:48:33+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T15:51:55+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T15:54:52+06:00"}
+{"level":"error","msg":"invalid volunteer ID: the provided hex string is not a valid ObjectID","time":"2024-03-03T15:55:06+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T15:55:38+06:00"}
+{"level":"error","msg":"invalid volunteer ID: the provided hex string is not a valid ObjectID","time":"2024-03-03T15:56:03+06:00"}
+{"level":"error","msg":"invalid volunteer ID: the provided hex string is not a valid ObjectID","time":"2024-03-03T15:56:07+06:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.Volunteer.ID.Hex\u003e: can't evaluate field Volunteer in type string","time":"2024-03-03T15:56:45+06:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.Volunteer.ID.Hex\u003e: can't evaluate field Volunteer in type string","time":"2024-03-03T15:58:09+06:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.Volunteer.ID.Hex\u003e: can't evaluate field Volunteer in type string","time":"2024-03-03T15:58:11+06:00"}
+{"level":"error","msg":"invalid volunteer ID: the provided hex string is not a valid ObjectID","time":"2024-03-03T15:58:34+06:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.Volunteer.ID.Hex\u003e: can't evaluate field Volunteer in type string","time":"2024-03-03T15:58:55+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T16:09:01+05:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.Volunteer.ID.Hex\u003e: can't evaluate field Volunteer in type string","time":"2024-03-03T16:20:45+05:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.volunteer.ID.Hex\u003e: can't evaluate field volunteer in type string","time":"2024-03-03T16:21:35+05:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.volunteer.ID.Hex\u003e: can't evaluate field volunteer in type string","time":"2024-03-03T16:21:37+05:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.volunteer.ID.Hex\u003e: can't evaluate field volunteer in type string","time":"2024-03-03T16:21:37+05:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.volunteer.ID.Hex\u003e: can't evaluate field volunteer in type string","time":"2024-03-03T16:21:38+05:00"}
+{"level":"error","msg":"template: chekingCode.html:12:43: executing \"chekingCode.html\" at \u003c.volunteer.ID.Hex\u003e: can't evaluate field volunteer in type string","time":"2024-03-03T16:21:38+05:00"}
+{"level":"error","msg":"template: chekingCode.html:12:44: executing \"chekingCode.html\" at \u003c.Volunteer.ID.Hex\u003e: can't evaluate field Volunteer in type string","time":"2024-03-03T16:29:29+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T16:30:47+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T16:31:41+05:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"qwer\" }]","time":"2024-03-03T16:32:58+05:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T17:40:05+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T17:43:31+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T17:49:28+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"8\" }]","time":"2024-03-03T17:50:06+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T17:50:57+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T18:09:14+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"12\" }]","time":"2024-03-03T18:10:10+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"+7707418\" }]","time":"2024-03-03T18:10:59+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T18:13:21+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T18:16:08+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"0\" }]","time":"2024-03-03T18:16:38+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"0\" }]","time":"2024-03-03T18:16:46+06:00"}
+{"level":"error","msg":"write exception: write errors: [E11000 duplicate key error collection: SantaWeb.volunteers index: phone_1 dup key: { phone: \"0\" }]","time":"2024-03-03T18:16:54+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T18:21:28+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T18:26:32+06:00"}
+{"level":"info","msg":"Starting server on http://localhost::8080/\n","time":"2024-03-03T18:50:12+06:00"}
+{"level":"error","msg":"open ui/templates/checkingCode.html: The system cannot find the file specified.","time":"2024-03-03T18:50:26+06:00"}

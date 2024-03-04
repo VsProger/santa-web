@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choose a Child to Gift</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../static/style/stylevol.css">
+</head>
+<body>
+<div class="container mt-5">
+    <div class="vol-personal-card mb-4">
+        <h2>{{.Volunteer.Name}} {{.Volunteer.Surname}}</h2>
+        <p><strong>Email:</strong> {{.Volunteer.Email}}</p>
+        <p><strong>Phone:</strong> {{.Volunteer.Phone}}</p>
+    </div>
+
+    <div class="container">
+        <h1>Children's Wish Lists</h1>
+
+        <form action="/vol/{{.Volunteer.ID.Hex}}" method="get">
+            <input type="hidden" name="page" value="1">
+            <button type="submit" name="sort" value="asc" class="btn btn-primary">Sort Ascending</button>
+            <button type="submit" name="sort" value="desc" class="btn btn-primary">Sort Descending</button>
+            <button type="submit" name="filter" value="wishes" class="btn btn-primary">Child with wishes</button>
+        </form>
+
+        <div id="children-list">
+            <div class="child-wish mb-3 pb-2 border-bottom">
+                {{range .Children}}
+                <h3>{{.Name}} {{.Surname}}</h3>
+                <p>Wish:  {{if .Wish}}{{.Wish.Wishes}}{{else}}No wishes listed{{end}}</p>
+                {{else}}
+                <p>No children assigned</p>
+            {{end}}
+            </div>
+
+            {{if .Pagination.PrevPage}}
+            <a href="/vol/{{.Volunteer.ID.Hex}}?page={{.Pagination.PrevPage}}&sort={{.Sorting}}">Previous</a>
+            {{end}}
+
+            {{if .Pagination.NextPage}}
+            <a href="/vol/{{.Volunteer.ID.Hex}}?page={{.Pagination.NextPage}}&sort={{.Sorting}}">Next</a>
+            {{end}}
+
+            {{range .Pagination.Pages}}
+            <a href="/vol/{{.Volunteer.ID.Hex}}?page={{.Page}}&sort={{.Sorting}}">{{.Page}}</a>
+            {{end}}
+
+        </div>
+    </div>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
